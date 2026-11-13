@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose Architecture"
+  short_description: "State, actions, and one-shot events for Compose screens"
+  default_prompt: "Use $compose-architecture to design app state, user actions, and one-shot UI events for this screen or workflow."

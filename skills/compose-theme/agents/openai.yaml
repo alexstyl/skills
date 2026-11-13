@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose Theme"
+  short_description: "Typed Compose themes, tokens, and screen scaffolds"
+  default_prompt: "Use $compose-theme to implement the project's theme tokens, CompositionLocals, and ScreenScaffold."
